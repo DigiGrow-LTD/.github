@@ -74,4 +74,4 @@ https://www.contributor-covenant.org/translations.
 
 ---
 
-© 2024 DigiGrow Ltd. All rights reserved.
+© 2024 DigiGrow Ltd., a CL Solutions company. All rights reserved.
