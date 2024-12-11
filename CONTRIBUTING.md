@@ -106,4 +106,4 @@ Thank you for contributing to DigiGrow! Your efforts help make our projects bett
 
 ---
 
-© 2024 DigiGrow Ltd. All rights reserved.
+© 2024 DigiGrow Ltd., a CL Solutions company. All rights reserved.
