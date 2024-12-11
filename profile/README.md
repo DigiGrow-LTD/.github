@@ -35,4 +35,4 @@ We welcome contributions from developers at all experience levels. Whether you'r
 
 ---
 
-© 2024 DigiGrow Ltd. All rights reserved.
+© 2024 DigiGrow Ltd., a CL Solutions company. All rights reserved.
