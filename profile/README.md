@@ -31,7 +31,7 @@ We welcome contributions from developers at all experience levels. Whether you'r
 ## 📫 Connect With Us
 
 - **Website:** [www.digigrow.com](https://www.digigrow.com)
-- **Email:** [hello@digigrow.com](mailto:hello@digigrow.com)
+- **Email:** [contact@digigrow.com](mailto:contact@digigrow.com)
 
 ---
 
