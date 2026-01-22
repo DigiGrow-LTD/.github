@@ -30,9 +30,9 @@ We welcome contributions from developers at all experience levels. Whether you'r
 
 ## 📫 Connect With Us
 
-- **Website:** [www.digigrow.com](https://www.digigrow.com)
-- **Email:** [contact@digigrow.com](mailto:contact@digigrow.com)
+- **Website:** [www.digigrow.com](https://www.digigrow.uk)
+- **Email:** [contact@digigrow.com](mailto:contact@digigrow.uk)
 
 ---
 
-© 2024 DigiGrow Ltd., a CL Solutions company. All rights reserved.
+© 2026 DigiGrow Ltd., a CL Solutions company. All rights reserved.
