@@ -30,8 +30,8 @@ We welcome contributions from developers at all experience levels. Whether you'r
 
 ## 📫 Connect With Us
 
-- **Website:** [www.digigrow.com](https://www.digigrow.uk)
-- **Email:** [contact@digigrow.com](mailto:contact@digigrow.uk)
+- **Website:** [www.digigrow.uk](https://www.digigrow.uk)
+- **Email:** [contact@digigrow.uk](mailto:contact@digigrow.uk)
 
 ---
 
